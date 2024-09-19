@@ -8,9 +8,14 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+### Overview
+
+*   Platform: Vultr (Cloud)
+*   Tools Used: ELK (Elasticsearch, Logstash, Kibana), Mythic C2, Sysmon, Ticketing System
+*   Key Skills: SIEM setup, log ingestion, threat detection, incident response, dashboard creation, alert configuration
+
 
 # Header 1
 
