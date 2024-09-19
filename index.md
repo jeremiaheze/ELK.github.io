@@ -12,7 +12,13 @@ This project demonstrates **how to detect and investigate brute force and malwar
 
 # ELK Setup and Sysmon Log Ingestion
 
+ELK Stack Installation Confirmation, Sysmon Logs in Kibana, Logical Diagram
 
+## ELK Stack Installation Confirmation
+
+## Sysmon Logs in Kibana
+
+## Logical Diagram
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
