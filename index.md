@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Overview
 
-*   Platform: Vultr (Cloud)
-*   Tools Used: ELK (Elasticsearch, Logstash, Kibana), Mythic C2, Sysmon, Ticketing System
-*   Key Skills: SIEM setup, log ingestion, threat detection, incident response, dashboard creation, alert configuration
+*   **Platform: Vultr (Cloud)**
+*   **Tools Used: ELK (Elasticsearch, Logstash, Kibana), Mythic C2, Sysmon, Ticketing System**
+*   **Key Skills: SIEM setup, log ingestion, threat detection, incident response, dashboard creation, alert configuration**
 
 
 # Header 1
